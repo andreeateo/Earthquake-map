@@ -4,6 +4,7 @@ Earthquake Map is an application that displays an interactive map of the world's
 DISCLAIMER: the "threat circle" radius is for illustration purposes only and is not intended to be used for safety-critical or predictive applications.
 
 The UI is a PApplet (Processing window) that displays the National Geographic world map provided by Esri alongside the map's legend.
+As the user hovers the over a city or earthquake, a pop-up appears with information about the location.
 
 **Project Structure**
 - src: project source code
@@ -33,7 +34,7 @@ Sample 1
 ![alt text](https://github.com/andreeateo/Earthquake-map/blob/master/Sample1.png)
 
 Sample 2
-
+![alt text](https://github.com/andreeateo/Earthquake-map/blob/master/Sample2.png)
 
 **Author**
 
