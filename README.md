@@ -29,6 +29,12 @@ Eclipse IDE - for download and install go to https://www.eclipse.org/
 4. Similarly, left-click on a city to see if it is within the "threat circle" of a nearby earthquake.
 5. The console displays a list of the countries affected by earthquakes and their number, as well as how many earthquakes occurred in the oceans.
 
+Sample 1
+![alt text](https://github.com/andreeateo/Earthquake-map/blob/master/Sample1.png)
+
+Sample 2
+
+
 **Author**
 
 Andreea Teodor
